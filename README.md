@@ -1,4 +1,4 @@
-# Project-Shape-of-Hue
+# Project: Shape of Hue
 A simple game made using pygame.
 
 This is made by the following people:
