@@ -5,5 +5,5 @@ This is made by the following people:
 1. Gideon Davis Linggaban
 2. Van Edieson Balas
 4. Robert James Bombarda
-5. Mae Gamsawen
+5. Manayam Mae Gamsawen
 
